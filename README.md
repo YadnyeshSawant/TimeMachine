@@ -1,4 +1,4 @@
-# TIME MACHINE (1990 – 2026) ⏳✨
+in# TIME MACHINE (1990 – 2026) ⏳✨
 
 > An immersive, full-stack historical time machine chronicling **36 extraordinary years** of world history, India milestones, cinema, music, technology, science, sports, and cultural phenomena from **1990 to 2026**.
 
@@ -326,3 +326,6 @@ export interface SourceProvenance {
 This project is licensed under the [MIT License](LICENSE).
 
 Crafted with nostalgia and precision for historians, culture enthusiasts, and digital time travelers. 🕰️🚀
+
+
+Tanveer Singh 
