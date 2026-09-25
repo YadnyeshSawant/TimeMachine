@@ -1,0 +1,8 @@
+{
+  "name": "TIME MACHINE",
+  "description": "Interactive Historical Explorer spanning 1990 to 2026 across world events, India milestones, cinema, music, tech, science, and cultural moments with timeline filters, Then vs Now comparison, and Birth Date capsules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
